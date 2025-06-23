@@ -5,13 +5,13 @@ Faculty of Physics, Trieste University
 **Gamma-Ray Astrophysics | Multi-Messenger Astronomy | Quantum Gravity Phenomenology**  
 📍 Milan & Trieste, Italy  
 📧 [viglianoalessandro@gmail.com](mailto:viglianoalessandro@gmail.com)  
-🔗 [Google Scholar](https://scholar.google.com/citations?user=wRJ1eXYAAAAJ) · [ORCID](https://orcid.org/0009-0001-3508-4019) · [ResearchGate](https://www.researchgate.net/profile/Alessandro-Armando-Vigliano) · [Personal Webpage](https://www.dmif.uniud.it/dottorato/smf/dottorandi/alessandro-armando-vigliano/)
+🔗 [Google Scholar](https://scholar.google.com/citations?user=wRJ1eXYAAAAJ) · [ORCID](https://orcid.org/0009-0001-3508-4019) · [ResearchGate](https://www.researchgate.net/profile/Alessandro-Armando-Vigliano)
 
 ---
 
 ## 🧠 About Me
 
-I am a physicist and researcher specializing in high-energy astrophysics, gamma-ray bursts (GRBs), and novel observational strategies for transient phenomena. My work bridges theory, instrumentation, and data science—particularly in the context of Imaging Atmospheric Cherenkov Telescopes (IACTs), GRB localization, and multi-messenger astronomy.
+I am a physicist and researcher specializing in high-energy astrophysics, gamma-ray bursts (GRBs), and novel observational strategies for transient phenomena. My work bridges theory, instrumentation, and data science—particularly in the context of Imaging Atmospheric Cherenkov Telescopes (IACTs), GRBs , and multi-messenger astronomy.
 
 Currently, I hold a postdoctoral position at the University of Trieste, where I explore new data-driven approaches to GRB afterglows and support international collaborations like MAGIC and CTAO-LST1 as a Burst Advocate and Gravitational Wave Expert on Call.
 
@@ -19,7 +19,7 @@ Currently, I hold a postdoctoral position at the University of Trieste, where I 
 
 ## 🔬 Research Interests
 
-- Gamma-Ray Bursts and Polarimetry
+- Gamma-Ray Bursts
 - High-Energy Astrophysics & Transient Events
 - Multi-Messenger Astronomy (GW, neutrinos, GRBs)
 - Observational Strategy Optimization for IACTs
@@ -32,17 +32,17 @@ Currently, I hold a postdoctoral position at the University of Trieste, where I 
 
 - **Data-Driven Analysis of GRB Afterglows**  
   Developed a model-independent method for Swift XRT data to identify universal patterns in GRB light curves.  
-  _[Poster Presentation – Swift 20 Years Symposium, 2025]_
+  _[GitHub Page](https://github.com/aavigliano/GRBFit)_  
+  _[Poster Presentation – Swift 20 Years Symposium, 2025](https://indico.ict.inaf.it/event/3000/contributions/22204/attachments/9893/20413/Vigliano_Alessandro.pdf)_
 
-- **Soccer Ball Tiling for Transient Localization**  
-  Designed an alternative sky-tiling method using Goldberg polyhedra for optimized GRB/GW event coverage with IACTs.
+- **Soccer Ball Tessellation for Transient Localization**  
+  Designed an alternative sky-tessellation method using Goldberg polyhedra for optimized GRB/GW event coverage with IACTs.
+  _[PhD Thesis](https://air.uniud.it/handle/11390/1307472)_
 
 - **GRB Localization with GECCO's BGO Shields**  
   Contributed to simulations evaluating the fast localization potential of GECCO via its anticoincidence system.  
+  _[PhD Thesis](https://air.uniud.it/handle/11390/1307472)_
   _[PoS ICRC2023 Paper](https://dx.doi.org/10.22323/1.444.0748)_
-
-- **Polarization Studies with AMEGO**  
-  Modeled gamma-ray polarization signatures of GRBs and improved simulation accuracy for AMEGO’s detection capabilities.
 
 ---
 
