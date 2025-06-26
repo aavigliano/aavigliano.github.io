@@ -52,7 +52,7 @@ Notable papers:
 - _Gamma-ray Bursts: 50 Years and Counting_ – [Universe (2024)](https://doi.org/10.3390/universe10020057)
 - _White paper and roadmap for quantum gravity phenomenology in the multi-messenger era_ – [Classical and Quantum Gravity (2025)]([https://doi.org/10.1051/0004-6361/202346927](https://iopscience.iop.org/article/10.1088/1361-6382/ad605a))
 - _Dark Matter with GECCO_ – [Physical Review D (2023)](https://doi.org/10.1103/PhysRevD.107.023022)  
-➡️ [Full Publication List](https://scholar.google.com/citations?user=wRJ1eXYAAAAJ&hl=it) _(consider linking to ORCID or a separate markdown page)_
+➡️ [Full Publication List](https://scholar.google.com/citations?user=wRJ1eXYAAAAJ&hl=it)
 
 ---
 
