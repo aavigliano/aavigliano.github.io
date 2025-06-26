@@ -41,7 +41,7 @@ Currently, I hold a postdoctoral position at the University of Trieste, where I 
 
 - **GRB Localization with GECCO's BGO Shields**  
   Contributed to simulations evaluating the fast localization potential of GECCO via its anticoincidence system.  
-  _[PhD Thesis](https://air.uniud.it/handle/11390/1307472)_
+  _[PhD Thesis](https://air.uniud.it/handle/11390/1307472)_,
   _[PoS ICRC2023 Paper](https://dx.doi.org/10.22323/1.444.0748)_
 
 ---
@@ -50,9 +50,9 @@ Currently, I hold a postdoctoral position at the University of Trieste, where I 
 
 Notable papers:
 - _Gamma-ray Bursts: 50 Years and Counting_ – [Universe (2024)](https://doi.org/10.3390/universe10020057)
-- _Performance of LST-1 and MAGIC observations_ – [Astronomy & Astrophysics (2023)](https://doi.org/10.1051/0004-6361/202346927)
+- _White paper and roadmap for quantum gravity phenomenology in the multi-messenger era_ – [Classical and Quantum Gravity (2025)]([https://doi.org/10.1051/0004-6361/202346927](https://iopscience.iop.org/article/10.1088/1361-6382/ad605a))
 - _Dark Matter with GECCO_ – [Physical Review D (2023)](https://doi.org/10.1103/PhysRevD.107.023022)  
-➡️ [Full Publication List](#) _(consider linking to ORCID or a separate markdown page)_
+➡️ [Full Publication List](https://scholar.google.com/citations?user=wRJ1eXYAAAAJ&hl=it) _(consider linking to ORCID or a separate markdown page)_
 
 ---
 
