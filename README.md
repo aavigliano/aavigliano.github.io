@@ -93,7 +93,7 @@ Notable papers:
 
 ---
 
-> “Physics is the study of the universe's story. I try to help tell it—burst by burst.”
+> “Not all who wander are lost”
 
 ---
 
