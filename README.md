@@ -38,7 +38,7 @@ Currently, I hold a postdoctoral position at the University of Trieste, where I 
   
   [Poster Presentation – Swift 20 Years Symposium, 2025](https://indico.ict.inaf.it/event/3000/contributions/22204/attachments/9893/20413/Vigliano_Alessandro.pdf)_
 
-- **Soccer Ball Tessellation for Transient Localization**  
+- **Soccer Ball Tessellation for Poorly Localized Transient Observations**  
   Designed an alternative sky-tessellation method using Goldberg polyhedra for optimized GRB/GW event coverage with IACTs.
   _[PhD Thesis](https://air.uniud.it/handle/11390/1307472)_
 
@@ -69,6 +69,7 @@ Notable papers:
 
 ## 🛰 Collaborations
 
+- **Crystal Eye Proposal** – GRB detection & localization methods
 - **MAGIC & CTAO-LST1 Collaborations** – Burst Advocate, Data Shifts
 - **COST Actions BridgeQG & QG-MM** – Working Groups on high-energy theory and gamma-ray phenomenology
 - **GECCO Project** – GRB detection & localization methods
