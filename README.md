@@ -61,6 +61,7 @@ Notable papers:
 
 ## 👨‍🏫 Teaching & Mentoring
 
+- Supervised Bachelor's thesis on AGN VHE emissions analysis with the MAGIC telescopes (University of Trieste, 2025)
 - Supervised Master's thesis on high-z GRB detection with ML (University of Trieste, 2024)
 - Teaching Assistant for General Physics and Analysis II (University of Udine)
 - INFN external referee for simulation-based Master internships
@@ -71,7 +72,7 @@ Notable papers:
 
 - **Crystal Eye Proposal** – GRB detection & localization methods
 - **MAGIC & CTAO-LST1 Collaborations** – Burst Advocate, Data-taking Shifts
-- **COST Actions BridgeQG & QG-MM** – Working Groups on high-energy theory and gamma-ray phenomenology
+- **COST Actions BridgeQG & QG-MM** – Working Groups on gamma-ray phenomenology and high-energy theory
 - **GECCO Project** – GRB detection & localization methods
 
 ---
@@ -87,7 +88,7 @@ Notable papers:
 
 ## 🌍 Beyond Research
 
-- Former competitive Judo & MMA athlete  
+- Former competitive Judo & MMA athlete, still training
 - Sailing instructor & foiling enthusiast (International Moth class)  
 - Passionate about climbing, brain teasers, and traditional music  
 - Scuba-certified (PADI), licensed skipper, and physics communicator
