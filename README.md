@@ -63,8 +63,8 @@ Notable papers:
 
 - Supervised Bachelor's thesis on AGN VHE emissions analysis with the MAGIC telescopes (University of Trieste, 2025)
 - Supervised Master's thesis on high-z GRB detection with ML (University of Trieste, 2024)
-- Teaching Assistant for General Physics and Analysis II (University of Udine)
-- INFN external referee for simulation-based Master internships
+- Teaching Assistant for General Physics and Analysis II (University of Udine, 2023-2024)
+- INFN external referee for simulation-based Master internships (INFN Trieste, 2023-2024)
 
 ---
 
