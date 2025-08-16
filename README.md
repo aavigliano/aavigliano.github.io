@@ -39,11 +39,11 @@ Currently, I hold a postdoctoral position at the University of Trieste, where I 
   [Poster Presentation – Swift 20 Years Symposium, 2025](https://indico.ict.inaf.it/event/3000/contributions/22204/attachments/9893/20413/Vigliano_Alessandro.pdf)_
 
 - **Soccer Ball Tessellation for Poorly Localized Transients Observations**  
-  Designed an alternative sky-tessellation method using Goldberg polyhedra for optimized GRB/GW event coverage with IACTs.
+  Designed a novel sky-tessellation method using Goldberg polyhedra for optimized GRB/GW event coverage with IACTs, as well as optimizing the ExtraGalactic Survey.
   _[PhD Thesis](https://air.uniud.it/handle/11390/1307472)_
 
 - **GRB Localization with GECCO's BGO Shields**  
-  Contributed to simulations evaluating the fast localization potential of GECCO via its anticoincidence system.  
+  Evaluated the potential for fast localization of GRB events with GECCO via its anticoincidence system.  
   _[PhD Thesis](https://air.uniud.it/handle/11390/1307472)_,
   _[PoS ICRC2023 Paper](https://dx.doi.org/10.22323/1.444.0748)_
 
@@ -63,7 +63,8 @@ Notable papers:
 
 - Supervised Bachelor's thesis on AGN VHE emissions analysis with the MAGIC telescopes (University of Trieste, 2025)
 - Supervised Master's thesis on high-z GRB detection with ML (University of Trieste, 2024)
-- Teaching Assistant for General Physics and Analysis II (University of Udine, 2023-2024)
+- Teaching Assistant for General Physics fir mathematicians (University of Udine, 2024)
+- Teaching Assistant for Analysis II for mathematicians (University of Udine, 2023)
 - INFN external referee for simulation-based Master internships (INFN Trieste, 2023-2024)
 
 ---
@@ -72,7 +73,7 @@ Notable papers:
 
 - **Crystal Eye Proposal** – GRB detection & localization methods
 - **MAGIC & CTAO-LST1 Collaborations** – Burst Advocate, Data-taking Shifts
-- **COST Actions BridgeQG & QG-MM** – Working Groups on gamma-ray phenomenology and high-energy theory
+- **COST Actions BridgeQG & QG-MM** – Working Groups on gamma-ray phenomenology and high-energy theory and experiments
 - **GECCO Project** – GRB detection & localization methods
 
 ---
