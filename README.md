@@ -13,7 +13,7 @@ Faculty of Physics, Trieste University
 
 I am a physicist and researcher specializing in high-energy astrophysics, gamma-ray bursts (GRBs), and novel observational strategies for transient phenomena. My work bridges theory, instrumentation, and data science—particularly in the context of Imaging Atmospheric Cherenkov Telescopes (IACTs), GRBs , and multi-messenger astronomy.
 
-Currently, I hold a postdoctoral position at the University of Trieste, where I explore new data-driven approaches to GRB afterglows and support international collaborations like MAGIC and CTAO-LST1 as a Burst Advocate and Gravitational Wave Expert on Call.
+Currently, I hold a postdoctoral position at the University of Trieste, where I explore new data-driven population-level studies of GRB afterglows and support international collaborations like MAGIC and CTAO-LST1 as a Burst Advocate and Gravitational Wave Expert on Call.
 
 ---
 
@@ -71,9 +71,9 @@ Notable papers:
 
 ## 🛰 Collaborations
 
-- **Crystal Eye Proposal** – GRB detection & localization methods
 - **MAGIC & CTAO-LST1 Collaborations** – Burst Advocate, Data-taking Shifts
 - **COST Actions BridgeQG & QG-MM** – Working Groups on gamma-ray phenomenology and high-energy theory and experiments
+- **Crystal Eye Proposal** – GRB detection & localization methods
 - **GECCO Project** – GRB detection & localization methods
 
 ---
