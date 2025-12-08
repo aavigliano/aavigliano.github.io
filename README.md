@@ -17,7 +17,7 @@ Currently, I hold a postdoctoral position at the University of Trieste, where I 
 
 ---
 
-## 🔬 Research Interests
+## 🔭 Research Interests
 
 - Gamma-Ray Bursts
 - High-Energy Astrophysics & Transient Events
@@ -75,6 +75,12 @@ Notable papers:
 - **COST Actions BridgeQG & QG-MM** – Working Groups on gamma-ray phenomenology and high-energy theory and experiments
 - **Crystal Eye Proposal** – GRB detection & localization methods
 - **GECCO Project** – GRB detection & localization methods
+
+---
+
+## 📈 Research Timeline
+
+![Research Timeline](/Images/Vigliano_Research_Timeline.png)
 
 ---
 
