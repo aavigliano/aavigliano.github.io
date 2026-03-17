@@ -5,7 +5,7 @@ Faculty of Physics, Trieste University
 **Gamma-Ray Astrophysics | Multi-Messenger Astronomy | Quantum Gravity Phenomenology**  
 📍 Milan & Trieste, Italy  
 📧 [viglianoalessandro@gmail.com](mailto:viglianoalessandro@gmail.com)  
-🔗 [Google Scholar](https://scholar.google.com/citations?user=wRJ1eXYAAAAJ) · [ORCID](https://orcid.org/0009-0001-3508-4019) · [ResearchGate](https://www.researchgate.net/profile/Alessandro-Armando-Vigliano)
+🔗 [Google Scholar](https://scholar.google.com/citations?user=wRJ1eXYAAAAJ) · [ORCID](https://orcid.org/0009-0001-3508-4019) · [ResearchGate](https://www.researchgate.net/profile/Alessandro-Armando-Vigliano)  
 📄 [Curriculum Vitae](/Alessandro_Armando_Vigliano_CV.pdf)
 
 ---
