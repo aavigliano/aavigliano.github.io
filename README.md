@@ -5,7 +5,7 @@ Faculty of Physics, Trieste University
 **Gamma-Ray Astrophysics | Multi-Messenger Astronomy | Quantum Gravity Phenomenology**  
 📍 Milan & Trieste, Italy  
 📧 [viglianoalessandro@gmail.com](mailto:viglianoalessandro@gmail.com)  
-🔗 [Google Scholar](https://scholar.google.com/citations?user=wRJ1eXYAAAAJ) · [ORCID](https://orcid.org/0009-0001-3508-4019) · [ResearchGate](https://www.researchgate.net/profile/Alessandro-Armando-Vigliano)
+🔗 [Google Scholar](https://scholar.google.com/citations?user=wRJ1eXYAAAAJ) · [ORCID](https://orcid.org/0009-0001-3508-4019) · [ResearchGate](https://www.researchgate.net/profile/Alessandro-Armando-Vigliano) · [Download CV](/Alessandro_Armando_Vigliano_CV.pdf)
 
 ---
 
@@ -63,7 +63,7 @@ Notable papers:
 
 - Supervised Bachelor's thesis on AGN VHE emissions analysis with the MAGIC telescopes (University of Trieste, 2025)
 - Supervised Master's thesis on high-z GRB detection with ML (University of Trieste, 2024)
-- Teaching Assistant for General Physics fir mathematicians (University of Udine, 2024)
+- Teaching Assistant for General Physics for mathematicians (University of Udine, 2024)
 - Teaching Assistant for Analysis II for mathematicians (University of Udine, 2023)
 - INFN external referee for simulation-based Master internships (INFN Trieste, 2023-2024)
 
