@@ -36,10 +36,10 @@ Currently, I hold a postdoctoral position at the University of Trieste, where I 
   _[GitHub Page](https://github.com/aavigliano/GRBFit)_,
   _[Paper](https://arxiv.org/abs/2605.25644)_,
   _[Talk](https://agenda.infn.it/event/47777/contributions/269959/attachments/137993/207524/Novel%20analysis%20GRB%20Lightcurves%20Vigliano.pdf)_,
-  _[Poster, 2025](https://indico.ict.inaf.it/event/3000/contributions/22204/attachments/9893/20413/Vigliano_Alessandro.pdf)_
+  _[Poster (2025)](https://indico.ict.inaf.it/event/3000/contributions/22204/attachments/9893/20413/Vigliano_Alessandro.pdf)_
 
-- **Soccer Ball Tessellation for Poorly Localized Transients Observations**  
-  Designed a novel sky-tessellation method using Goldberg polyhedra for optimized GRB/GW event coverage with IACTs, as well as optimizing the ExtraGalactic Survey.
+- **Soccer Ball Tessellation for Efficient Sky Coverage with Narrow Field of View Telescopes**  
+  Designed a novel sky-tessellation method using Goldberg polyhedra for optimized GRB/GW event coverage with narrow FoV telescopes (especially IACTs), as well as optimizing the ExtraGalactic Survey.
   _[PhD Thesis](https://air.uniud.it/handle/11390/1307472)_
 
 - **GRB Localization with GECCO's BGO Shields**  
