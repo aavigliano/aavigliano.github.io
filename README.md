@@ -32,14 +32,11 @@ Currently, I hold a postdoctoral position at the University of Trieste, where I 
 ## 🚀 Selected Projects
 
 - **Data-Driven Analysis of GRB Afterglows**  
-  Developed a model-independent method for Swift XRT data to identify universal patterns in GRB light curves.  
-  _[GitHub Page](https://github.com/aavigliano/GRBFit)_
-
-  [Paper](https://arxiv.org/abs/2605.25644)
-
-  _[Talk - Advances in Modeling High-Energy Astrophysical Sources: Insights from recent multimessenger discoveries](https://agenda.infn.it/event/47777/contributions/269959/attachments/137993/207524/Novel%20analysis%20GRB%20Lightcurves%20Vigliano.pdf)_
-  
-  [Poster Presentation – Swift 20 Years Symposium, 2025](https://indico.ict.inaf.it/event/3000/contributions/22204/attachments/9893/20413/Vigliano_Alessandro.pdf)_
+  Developed a model-independent method for Swift XRT data to identify universal patterns in GRB light curves and probe phenomenological correlations.  
+  _[GitHub Page](https://github.com/aavigliano/GRBFit)_,
+  _[Paper](https://arxiv.org/abs/2605.25644)_,
+  _[Talk](https://agenda.infn.it/event/47777/contributions/269959/attachments/137993/207524/Novel%20analysis%20GRB%20Lightcurves%20Vigliano.pdf)_,
+  _[Poster, 2025](https://indico.ict.inaf.it/event/3000/contributions/22204/attachments/9893/20413/Vigliano_Alessandro.pdf)_
 
 - **Soccer Ball Tessellation for Poorly Localized Transients Observations**  
   Designed a novel sky-tessellation method using Goldberg polyhedra for optimized GRB/GW event coverage with IACTs, as well as optimizing the ExtraGalactic Survey.
@@ -55,6 +52,7 @@ Currently, I hold a postdoctoral position at the University of Trieste, where I 
 ## 📚 Publications
 
 Notable papers:
+- _Reassessing high-energy emission correlations in gamma-ray bursts using a large, homogeneous sample of X-ray afterglows_ - [A&A](https://arxiv.org/abs/2605.25644)
 - _Gamma-ray Bursts: 50 Years and Counting_ – [Universe (2024)](https://doi.org/10.3390/universe10020057)
 - _White paper and roadmap for quantum gravity phenomenology in the multi-messenger era_ – [Classical and Quantum Gravity (2025)]([https://doi.org/10.1051/0004-6361/202346927](https://iopscience.iop.org/article/10.1088/1361-6382/ad605a))
 - _Dark Matter with GECCO_ – [Physical Review D (2023)](https://doi.org/10.1103/PhysRevD.107.023022)  
