@@ -35,6 +35,8 @@ Currently, I hold a postdoctoral position at the University of Trieste, where I 
   Developed a model-independent method for Swift XRT data to identify universal patterns in GRB light curves.  
   _[GitHub Page](https://github.com/aavigliano/GRBFit)_
 
+  _[Paper](https://arxiv.org/abs/2605.25644)
+
   _[Talk - Advances in Modeling High-Energy Astrophysical Sources: Insights from recent multimessenger discoveries](https://agenda.infn.it/event/47777/contributions/269959/attachments/137993/207524/Novel%20analysis%20GRB%20Lightcurves%20Vigliano.pdf)_
   
   [Poster Presentation – Swift 20 Years Symposium, 2025](https://indico.ict.inaf.it/event/3000/contributions/22204/attachments/9893/20413/Vigliano_Alessandro.pdf)_
