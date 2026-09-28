@@ -1,10 +1,10 @@
 # Alessandro Armando Vigliano
 
 **Postdoctoral Research Associate**  
-Faculty of Physics, Trieste University  
+INAF - Osservatorio Astronomico di Brera, Merate  
 **Gamma-Ray Astrophysics | Multi-Messenger Astronomy | Quantum Gravity Phenomenology**  
 📍 Milan & Trieste, Italy  
-📧 [viglianoalessandro@gmail.com](mailto:viglianoalessandro@gmail.com)  
+📧 [alessandro.vigliano@inaf.it](mailto:alessandro.vigliano@inaf.it)  
 🔗 [Google Scholar](https://scholar.google.com/citations?user=wRJ1eXYAAAAJ) · [ORCID](https://orcid.org/0009-0001-3508-4019) · [ResearchGate](https://www.researchgate.net/profile/Alessandro-Armando-Vigliano)  
 📄 [Curriculum Vitae](/CV_Vigliano_Alessandro_Armando.pdf)
 
@@ -12,9 +12,11 @@ Faculty of Physics, Trieste University
 
 ## 🧠 About Me
 
-I am a physicist and researcher specializing in high-energy astrophysics, gamma-ray bursts (GRBs), and novel observational strategies for transient phenomena. My work bridges theory, instrumentation, and data science—particularly in the context of Imaging Atmospheric Cherenkov Telescopes (IACTs), GRBs , and multi-messenger astronomy.
+I am a physicist and researcher specializing in high-energy and time-domain astrophysics, with a particular focus on gamma-ray bursts (GRBs), relativistic jets, polarimetry, and multi-messenger phenomena. My work combines physical modelling, instrument simulations, observational data analysis, and reproducible scientific software to investigate transient sources across the X-ray, gamma-ray, and very-high-energy domains.
 
-Currently, I hold a postdoctoral position at the University of Trieste, where I explore new data-driven population-level studies of GRB afterglows and support international collaborations like MAGIC and CTAO-LST1 as a Burst Advocate and Gravitational Wave Expert on Call.
+I am currently a researcher at the INAF Astronomical Observatory of Brera, where I work on the COSI mission under the project “COSI: Simulation and Data Analysis of Relativistic-Jet Emission.” My research focuses on simulations and analysis methods for MeV observations, the modelling of GRBs, and the use of gamma-ray polarimetry to constrain the physics and geometry of relativistic jets.
+
+Before joining INAF, I was a postdoctoral researcher at the University of Trieste, where I developed data-driven large-sample studies of GRB afterglows and X-ray flares. I also contributed to the MAGIC and CTAO-LST1 collaborations through transient operations, including responsibilities as a Burst Advocate and Gravitational-Wave Expert on Call.
 
 ---
 
@@ -70,6 +72,7 @@ Notable papers:
 
 ## 🛰 Collaborations
 
+- **COSI** – GRB polarimetry
 - **MAGIC & CTAO-LST1 Collaborations** – Burst Advocate, Data-taking Shifts
 - **COST Actions BridgeQG & QG-MM** – Working Groups on gamma-ray phenomenology and high-energy theory and experiments
 - **Crystal Eye Proposal** – GRB detection & localization methods
