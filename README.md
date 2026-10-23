@@ -73,6 +73,7 @@ Notable papers:
 ## 🛰 Collaborations
 
 - **COSI** – GRB polarimetry
+- **COST Action EXPAND** - Working Groups on relativistic plasmas and Communication
 - **MAGIC & CTAO-LST1 Collaborations** – Burst Advocate, Data-taking Shifts
 - **COST Actions BridgeQG & QG-MM** – Working Groups on gamma-ray phenomenology and high-energy theory and experiments
 - **Crystal Eye Proposal** – GRB detection & localization methods
